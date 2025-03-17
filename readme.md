@@ -1,3 +1,3 @@
 # git and GitHub course
 
-VLad ne smotri eto
+Vlad ne smotri eto
